@@ -1,0 +1,17 @@
+.g-recaptcha{
+    transform: scale(1.06);
+    /* transform-origin: 0 0; */
+    margin: 0 auto;
+    display: table;
+}
+
+.content-header {
+    padding: 15px 0;
+}
+.content {
+    padding: 0 !important;
+}
+.content-header>.breadcrumb {
+	padding-right: 0;
+    right: 0;
+}
